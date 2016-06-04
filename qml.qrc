@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>View.qml</file>
+        <file>MainView.qml</file>
+        <file>MessageView.qml</file>
+    </qresource>
+</RCC>
